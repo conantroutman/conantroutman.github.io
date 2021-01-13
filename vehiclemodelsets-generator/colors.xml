@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+    <color id="0">
+        <name>Metallic Black</name>
+        <rgb></rgb>
+    </color>
+    <color id="1">
+        <name>Metallic Graphite Black</name>
+        <rgb></rgb>
+    </color>
+    <color id="2">
+        <name>Metallic Black Steel</name>
+        <rgb></rgb>
+    </color>
+    <color id="3">
+        <name>Metallic Dark Silver</name>
+        <rgb></rgb>
+    </color>
+    <color id="4">
+        <name>Metallic Silver</name>
+        <rgb></rgb>
+    </color>
+    <color id="5">
+        <name>Metallic Blue Silver</name>
+        <rgb></rgb>
+    </color>
+    <color id="6">
+        <name>Metallic Steel Gray</name>
+        <rgb></rgb>
+    </color>
+    <color id="7">
+        <name>Metallic Shadow Silver</name>
+        <rgb></rgb>
+    </color>
+    <color id="8">
+        <name>Metallic Stone Silver</name>
+        <rgb></rgb>
+    </color>
+    <color id="9">
+        <name>Metallic Midnight Silver</name>
+        <rgb></rgb>
+    </color>
+    <color id="10">
+        <name>Metallic Gun Metal</name>
+        <rgb></rgb>
+    </color>
+</colors>

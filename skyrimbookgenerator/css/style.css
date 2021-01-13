@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "DaedricFont";
+  src: url("../fonts/Daedric.ttf");
+}
+
+.paper {
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  background-image: url(../images/largebookpaper01.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+.text {
+    color: black;
+    font-size: 7rem;
+    font-family: Arial;
+    font-weight: 900;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+    width: 100%;
+}
+
+.text span:first-of-type {
+    font-size: 11rem;
+    margin-bottom: 7%;
+}
+
+.text span:nth-of-type(2) {
+    
+}
+
+.background {
+    background-color: yellow;
+    width: 100%;
+    height: 100vh;
+    -webkit-animation: FLASH 0.2s infinite;  /* Safari 4+ */
+    -moz-animation: FLASH 0.2s infinite;  /* Fx 5+ */
+    -o-animation: FLASH 0.2s infinite;  /* Opera 12+ */
+    animation: FLASH 0.2s infinite;  /* IE 10+, Fx 29+ */
+    overflow: hidden;
+}
+
+@-webkit-keyframes FLASH {
+    0%, 49% {
+      background-color: yellow;
+    }
+    50%, 100% {
+      background-color: red;
+    }
+  }

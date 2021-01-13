@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <p id="demo"></p>
+
+    <script>
+        let getXMLFile = function(path, callback) {
+            let request = new XMLHttpRequest();
+            request.open("GET", path);
+            request.setRequestHeader("Content-Type", "text/xml");
+            request.onreadystatechange = function() {
+                if (request.readyState === 4 && request.status === 200) {
+                    callback(request.responseXML);
+                }
+            };
+            request.send();
+        };
+
+        getXMLFile("data.xml", function(xml) {
+            console.log(xml);
+        });
+    </script>
+</body>
+</html>

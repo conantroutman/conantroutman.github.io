@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <name>Dinka Jester Classic</name>
+        <wheelType></wheelType>
+        <mods>
+            <mod>
+                <name>Hood</name>
+                <type>VMT_BONNET</type>
+                <variants>
+                    <variant>
+                        <name>Stock</name>
+                    </variant>
+                    <variant>
+                        <name>Secondary</name>
+                    </variant>
+                    <variant>
+                        <name>Custom</name>
+                    </variant>
+                    <variant>
+                        <name>Scooped</name>
+                    </variant>
+                    <variant>
+                        <name>Vented</name>
+                    </variant>
+                    <variant>
+                        <name>Performance</name>
+                    </variant>
+                    <variant>
+                        <name>Carbon</name>
+                    </variant>
+                    <variant>
+                        <name>Carbon Custom</name>
+                    </variant>
+                    <variant>
+                        <name>Carbon Scooped</name>
+                    </variant>
+                    <variant>
+                        <name>Carbon Performance</name>
+                    </variant>
+                </variants>
+            </mod>
+            <mod>
+                <name>Headlight Covers</name>
+                <type>VMT_GRILL</type>
+                <variants>
+                    <variant>
+                        <name>No Headlight Cover</name>
+                    </variant>
+                    <variant>
+                        <name>Hood Curve Eyelids</name>
+                    </variant>
+                    <variant>
+                        <name>Half Cut Eyelids</name>
+                    </variant>
+                    <variant>
+                        <name>Headlight Covers</name>
+                    </variant>
+                    <variant>
+                        <name>Secondary Covers</name>
+                    </variant>
+                    <variant>
+                        <name>Carbon Covers</name>
+                    </variant>
+                </variants>
+            </mod>
+            <mod>
+                <name>Spoiler</name>
+                <type>VMT_SPOILER</type>
+                <variants>
+                    <variant>
+                        <name>None</name>
+                    </variant>
+                    <variant>
+                        <name>Bootlip Spoiler</name>
+                    </variant>
+                    <variant>
+                        <name>Tuner Spoiler</name>
+                    </variant>
+                    <variant>
+                        <name>Mid Level Spoiler</name>
+                    </variant>
+                    <variant>
+                        <name>High Level Spoiler</name>
+                    </variant>
+                    <variant>
+                        <name>Carbon Wing Type I</name>
+                    </variant>
+                    <variant>
+                        <name>Carbon Wing Type II</name>
+                    </variant>
+                    <variant>
+                        <name>Carbon Wing Type III</name>
+                    </variant>
+                    <variant>
+                        <name>Big GT Wing Type I</name>
+                    </variant>
+                    <variant>
+                        <name>Big GT Wing Type II</name>
+                    </variant>
+                </variants>
+            </mod>
+            <mod>
+                <name>Front Bumper</name>
+                <type>VMT_BUMPER_F</type>
+                <variants>
+                    <variant>
+                        <name>Stock Front Bumper</name>
+                    </variant>
+                    <variant>
+                        <name>Center Grille Cut</name>
+                    </variant>
+                    <variant>
+                        <name>Low Splitter</name>
+                    </variant>
+                    <variant>
+                        <name>Carbon Splitter</name>
+                    </variant>
+                    <variant>
+                        <name>Low Black Splitter</name>
+                    </variant>
+                    <variant>
+                        <name>Grille Cut w/ Splitter</name>
+                    </variant>
+                    <variant>
+                        <name>Drift Bumper</name>
+                    </variant>
+                    <variant>
+                        <name>Low Splitter w/ Canards</name>
+                    </variant>
+                    <variant>
+                        <name>Drift w/ Splitter</name>
+                    </variant>
+                    <variant>
+                        <name>Street Build</name>
+                    </variant>
+                    <variant>
+                        <name>Drift w/ Intercooler</name>
+                    </variant>
+                    <variant>
+                        <name>Drift Build</name>
+                    </variant>
+                    <variant>
+                        <name>Street Build w/ Canards</name>
+                    </variant>
+                </variants>
+            </mod>
+            <mod>
+                <name>Rear Bumper</name>
+                <type>VMT_BUMPER_R</type>
+                <variants>
+                    <variant>
+                        <name>Stock Rear Bumper</name>
+                    </variant>
+                    <variant>
+                        <name>Custom Diffuser</name>
+                    </variant>
+                    <variant>
+                        <name>Carbon Rear Diffuser</name>
+                    </variant>
+                    <variant>
+                        <name>Carbon Rear</name>
+                    </variant>
+                    <variant>
+                        <name>Carbon Rear w/ Diffuser</name>
+                    </variant>
+                </variants>
+            </mod>
+            <mod>
+                <name>Chassis</name>
+                <type>VMT_CHASSIS</type>
+                <variants>
+                    <variant>
+                        <name>Stock Chassis</name>
+                    </variant>
+                    <variant>
+                        <name>Secondary Cage</name>
+                    </variant>
+                    <variant>
+                        <name>Primary Cage</name>
+                    </variant>
+                    <variant>
+                        <name>Race Seats w/ Secondary Cage</name>
+                    </variant>
+                    <variant>
+                        <name>Race Seats w/ Primary Cage</name>
+                    </variant>
+                </variants>
+            </mod>
+            <mod>
+                <name>Exhausts</name>
+                <type>VMT_EXHAUST</type>
+                <variants>
+                    <variant>
+                        <name>Stock Exhaust</name>
+                    </variant>
+                    <variant>
+                        <name>Single Chrome Exhaust</name>
+                    </variant>
+                    <variant>
+                        <name>Twin Chrome Exhaust</name>
+                    </variant>
+                    <variant>
+                        <name>Dual Titanium Exhaust</name>
+                    </variant>
+                    <variant>
+                        <name>Twin Chrome Exhaust II</name>
+                    </variant>
+                </variants>
+            </mod>
+            <mod>
+                <name>Fenders</name>
+                <type>VMT_WING_L</type>
+                <variants>
+                    <variant>
+                        <name>Stock Fender</name>
+                    </variant>
+                    <variant>
+                        <name>Rear Spats</name>
+                    </variant>
+                    <variant>
+                        <name>Bolt On Arches</name>
+                    </variant>
+                </variants>
+            </mod>
+            <mod>
+                <name>Roofs</name>
+                <type>VMT_ROOF</type>
+                <variants>
+                    <variant>
+                        <name>Stock Roof</name>
+                    </variant>
+                    <variant>
+                        <name>Roof Scoop</name>
+                    </variant>
+                    <variant>
+                        <name>Secondary Roof Scoop</name>
+                    </variant>
+                    <variant>
+                        <name>Custom Roof Scoop</name>
+                    </variant>
+                </variants>
+            </mod>
+            <mod>
+                <name>Skirts</name>
+                <type>VMT_SKIRT</type>
+                <variants>
+                    <variant>
+                        <name>Stock Skirts</name>
+                    </variant>
+                    <variant>
+                        <name>Primary Lip Skirt</name>
+                    </variant>
+                    <variant>
+                        <name>Carbon Lip Skirt</name>
+                    </variant>
+                </variants>
+            </mod>
+        </mods>
+    </car>
+</cars>
